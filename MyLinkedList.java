@@ -2,6 +2,8 @@ package LinkedList;
 
 import algodatb2023.hewan.*;
 
+//push test github restu
+
 public class MyLinkedList {
     private MyNode head = null;
     private MyNode tail = null;
