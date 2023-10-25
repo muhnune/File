@@ -35,6 +35,6 @@ public class MyLinkedList {
         }
         Hewan x = p.getElemen();
         System.out.println(x.getNama());
-        //hahahaa
+        //hahahaa mampus
     }
 }
