@@ -14,7 +14,7 @@ public class MyLinkedList {
         if (head == null) {
             head = node;
             tail = node;
-            current = node;
+            current = node;+
         } else {
             tail.setNext(node);
             tail = node;
@@ -35,5 +35,6 @@ public class MyLinkedList {
         }
         Hewan x = p.getElemen();
         System.out.println(x.getNama());
+        //hahahaa
     }
 }
